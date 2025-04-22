@@ -52,6 +52,37 @@ Dans ce mini-projet, nous avons conçu un système avancé d'analyse de sentimen
 - Utilisation d'une licence open-source (MIT)
 - Protocole de publication : issues, pull requests, validation par tests
 
+## Responsabilités liées à la publication du code
+La publication du code source implique des responsabilités importantes en matière de transparence, de maintenance et d'accessibilité.
+
+Le code fourni a été inspiré et tiré en partie du cours **GEI1092 - Techniques d'intelligence artificielle** de l'Université du Québec à Trois-Rivières. Ce cours lui-même s'appuie sur plusieurs ressources académiques et ouvrages de référence en apprentissage automatique et intelligence artificielle, notamment :
+
+1. **Raschka Sebastian, Vahid Mirjalili** – *Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2*, 3ᵉ édition, Packt Publishing, 2019.  
+2. **Ian Goodfellow, Yoshua Bengio, Aaron Courville** – *Deep Learning*, The MIT Press, novembre 2016.  
+3. **Raschka Sebastian** – *Build a Large Language Model*, 1ʳᵉ édition, Manning, octobre 2024.  
+4. **Denis Rothman** – *Hands-On Explainable AI (XAI) with Python*, 1ʳᵉ édition, Packt Publishing, juillet 2020.  
+5. **Serg Masís** – *Interpretable Machine Learning with Python - Second Edition*, Packt Publishing, octobre 2023.  
+6. **CodeCarbon** : [https://mlco2.github.io/codecarbon/](https://mlco2.github.io/codecarbon/)  
+7. **K. Lottick et al.** – *Energy Usage Reports: Environmental awareness as part of algorithmic accountability*, arXiv:1911.08354v2, 16 décembre 2019.  
+8. **Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers** – *How to Think Like a Computer Scientist: Learning with Python 3*, 3ᵉ édition, février 2019.  
+
+Les données utilisées dans ce projet proviennent du jeu de données IMDb, qui est open source. L'ensemble du code et des modèles est développé dans un esprit d'éthique et de responsabilité envers la communauté scientifique et les utilisateurs finaux.
+
+## Installation et exécution
+1. Cloner le dépôt :  
+```bash
+git clone https://github.com/D0ntMindMe/Mini-Project-1-Building-a-Sentiment-Analysis-System-for-Movie-Reviews-
+cd sentiment-analysis-project
+```
+2. Installer les dépendances :  
+```bash
+pip install -r requirements.txt
+```
+3. Exécuter le script principal :  
+```bash
+python main.py
+```
+
 ## Considérations éthiques
 - Transparence et explicabilité des résultats
 - Identification de biais potentiels dans les données et le modèle
@@ -61,4 +92,3 @@ Ce projet met en pratique des compétences avancées en NLP, deep learning, inte
 
 ## Licence
 Ce projet est distribué sous la licence MIT.
-
