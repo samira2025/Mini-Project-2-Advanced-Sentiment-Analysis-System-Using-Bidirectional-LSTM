@@ -71,7 +71,7 @@ Les données utilisées dans ce projet proviennent du jeu de données IMDb, qui 
 ## Installation et exécution
 1. Cloner le dépôt :  
 ```bash
-git clone https://github.com/D0ntMindMe/Mini-Project-1-Building-a-Sentiment-Analysis-System-for-Movie-Reviews-
+git clone https://github.com/samira2025/Mini-Project-2-Advanced-Sentiment-Analysis-System-Using-Bidirectional-LSTM/tree/FIR-LMS-Filter
 cd sentiment-analysis-project
 ```
 2. Installer les dépendances :  
